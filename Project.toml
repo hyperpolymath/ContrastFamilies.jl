@@ -2,7 +2,7 @@
 name = "ContrastFamilies"
 uuid = "10e923c4-f9ab-4da5-a18f-8d9875514f27"
 authors = ["Jonathan D.A. Jewell <6759885+hyperpolymath@users.noreply.github.com>"]
-version = "0.1.0-DEV"
+version = "0.1.0"
 
 [deps]
 SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
